@@ -11,8 +11,13 @@
 ### Task D- Set up your Environment:
 
 * Did you run into any issues?
-* How do you open Atom from your Terminal?
+* No problems on this end.
+
+* How do you open VS from your Terminal?
+* After installing the 'code' command in path, VS is now opened by entering 'code' in Terminal
+
 * What is the file extension for a Ruby file?
+
 * What is the Atom shortcut for hiding/ showing your file tree view?
 * What is the Atom shortcut for quickly finding a file (fuzzy finder)?
 
