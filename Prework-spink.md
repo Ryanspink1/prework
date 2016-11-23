@@ -11,10 +11,10 @@
 ### Task D- Set up your Environment:
 
 * Did you run into any issues?
-* No problems on this end.
+ No problems on this end.
 
 * How do you open VS from your Terminal?
-* After installing the 'code' command in path, VS is now opened by entering 'code' in Terminal
+ After installing the 'code' command in path, VS is now opened by entering 'code' in Terminal
 
 * What is the file extension for a Ruby file?
 
